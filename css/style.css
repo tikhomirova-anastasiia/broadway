@@ -1,0 +1,33 @@
+body{
+  font-family: Helvetica;
+}
+.menu h2{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.menu p{
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+.menu {
+  background-image: url("/Users/user/Desktop/broadway/resources/images/the-flatiron-building.png");
+}
+.process h2{
+  font-size: 32 px;
+  font-weight: bold;
+}
+.process h5{
+  font-size: 23px;
+  font-weight: bold;
+}
+.process {
+  text-align: center;
+}
+.process p{
+  font-size: 14px;
+}
